@@ -1,4 +1,4 @@
-# Starter REST Api
+# NodeJS rest api
 
 This is an example REST Api designed to be deployed on Cyclic.sh
 
